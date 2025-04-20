@@ -1,4 +1,4 @@
-baseURL = 'https://blog.pospiech.dev/'
+baseURL = 'https://zocimek.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 [module]
