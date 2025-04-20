@@ -1,0 +1,6 @@
+baseURL = 'https://blog.pospiech.dev/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
