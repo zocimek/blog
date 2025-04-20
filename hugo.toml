@@ -65,7 +65,7 @@ title = "Ops Uncharted"
   defaultColor = "auto" # set color mode: dark, light, auto
   
   #description = "Exploring the intersection of DevOps, GitOps, and Kubernetes, one commit at a time. Join me as I dive into cloud-native technologies, share practical insights on automation, and reveal behind-the-scenes stories from maintaining my homelab and real-world production environments."
-  description = "Deep dives into SRE best practices, CI/CD pipelines, security, observability, and home‑grown lab setups.”
+  description = "Deep dives into SRE best practices, CI/CD pipelines, security, observability, and home‑grown lab setups."
   mainSections = ['posts']
   
   toc = true # set to false to disable table of contents 'globally'
