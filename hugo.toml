@@ -68,8 +68,8 @@ title = "Ops Uncharted"
   description = "Deep dives into SRE best practices, CI/CD pipelines, security, observability, and home‑grown lab setups."
   mainSections = ['posts']
   
-  toc = true # set to false to disable table of contents 'globally'
-  tocOpen = false # set to true to open table of contents by default
+  #toc = true # set to false to disable table of contents 'globally'
+  #tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   
   # additionalScripts = ['js/custom.js', 'js/custom-2.js']
