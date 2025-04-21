@@ -1,6 +1,6 @@
 ---
 title: "Recovering S3 Data from a Ceph RGW Pool after Placement‑Group Loss: A Case Study"
-date: 2025-04-21T07:27:14.156Z
+date: 2025-04-21
 tags: ["ceph", "data-recovery", "rados", "case-study"]
 slug: "[CASE STUDY] How to recover files rados s3 bucket"
 ---
