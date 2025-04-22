@@ -1,6 +1,7 @@
 baseURL = 'https://blog.pospiech.dev/'
 languageCode = 'en-us'
 defaultContentLanguage = "en-us"
+#defaultContentLanguageInSubdir = true
 
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
@@ -17,7 +18,7 @@ title = "Ops Uncharted"
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next two lines
   [services.googleAnalytics]
-    id = '' # G-MEASUREMENT_ID
+    id = 'GTM-M896T9TV' # G-MEASUREMENT_ID
 
 # To enable Disqus comments, provide Disqus Shortname below.
 # To disable Disqus comments, simply leave the field empty or remove the next two lines
@@ -118,3 +119,9 @@ url = "https://www.linkedin.com/in/%C5%82ukasz-pospiech-9956bb47/"
 [[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
+
+[sitemap]
+  changeFreq = 'weekly'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
